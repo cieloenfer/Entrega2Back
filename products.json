@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Laptop Gamer",
+      "description": "Laptop potente con procesador Intel i7 y tarjeta gráfica RTX 3060.",
+      "code": "LAP123",
+      "price": 1500,
+      "status": true,
+      "stock": 10,
+      "category": "Electrónica",
+      "thumbnails": ["img/laptop1.jpg", "img/laptop2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "description": "Smartphone con pantalla AMOLED y cámara de 108 MP.",
+      "code": "SMT456",
+      "price": 800,
+      "status": true,
+      "stock": 25,
+      "category": "Telefonía",
+      "thumbnails": ["img/smartphone1.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Auriculares Inalámbricos",
+      "description": "Auriculares con cancelación de ruido y batería de 30 horas.",
+      "code": "AUR789",
+      "price": 120,
+      "status": true,
+      "stock": 50,
+      "category": "Accesorios",
+      "thumbnails": ["img/auriculares.jpg"]
+    }
+  ]
+  
